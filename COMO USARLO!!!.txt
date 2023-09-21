@@ -1,0 +1,6 @@
+Para verlo reflejado
+
+Desde android deben de descargar desde la play store un app llamada Pydroid 3
+Una vez descargada le dan continuar a todas las ventanas que les aparecen y cierran la ultima,
+hasta que les aparezca un espacio para escribir, ahi simplemente pegan el codigo y una vez pegado le dan 
+al boton abajo a la derecha de reproduccion.
